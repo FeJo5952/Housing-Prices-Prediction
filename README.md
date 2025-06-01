@@ -11,7 +11,7 @@ This project is a solution to the [Housing Prices Competition](https://www.kaggl
 - **Features Selected:**
   - `LotArea`, `YearBuilt`, `1stFlrSF`, `2ndFlrSF`, `FullBath`, `BedroomAbvGr`, `TotRmsAbvGrd`
 - **Libraries:** `pandas`, `sklearn`
-
+- **Initial Score:** ~21217.9 Root-Mean-Squared-Error (RMSE) on Kaggle public leaderboard
 ---
 
 ## 📁 Repository Contents
